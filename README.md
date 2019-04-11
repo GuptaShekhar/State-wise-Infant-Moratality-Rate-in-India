@@ -10,4 +10,4 @@ Post Neonatal Mortality Rate- Post Neonatal Mortality Rate is number of deaths o
 
 Perinatal mortality rate- Perinatal mortality rate is the number of fatal deaths after 28 weeks of pregnancy and infant deaths under 7 days of age in a given year per 1000 total births in that year.
 
-This article contains the Infant Mortality Rate of india and IMR is shown on India's map, including Nenatal, Post neonatal and Perinatal mortality rate in the Year 2013.
+This article contains the Infant Mortality Rate of india and IMR is shown on India's map, including Neonatal, Post neonatal and Perinatal mortality rate in the Year 2013.
