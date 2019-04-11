@@ -1,4 +1,6 @@
-# State-wise-Infant-Moratality-Rate-in-India(Map representation of IMR of year 2013)
+# State-wise-Infant-Moratality-Rate-in-India
+
+It contans state-wise IMR represented on Map of India of SRS data of year 2013)
 
 Infant Mortality is the death of young children under the age of one. This death toll is measured by the infant mortality rate (IMR), which is the number of deaths under one year of age occurring among the live births in a given geographical area during a given year, per 1,000 live births occurring among the population of the given geographical area during the same year. IMR comprises of two components (Neonatal Mortality Rate and Post NeonatalMortality Rate ). IMR depends on various differentials such as region(rural or urban), sex, interstate, etc. In India, according to SRS, the percentage of infant deaths to total deaths varies substantially across the states.
 
